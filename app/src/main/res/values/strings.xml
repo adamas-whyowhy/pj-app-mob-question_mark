@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Questionmark_projet</string>
+    <string name="jouer">Jouer</string>
+    <string name="param_tres">Paramètres</string>
+    <string name="propos">À propos</string>
+    <string name="questionmark">Questionmark</string>
+    <string name="txtapropos">txtAPropos</string>
+    <string name="title_activity_selection">SelectionActivity</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="s_lectionnez_votre_jeu">Sélectionnez votre jeu</string>
+    <string name="theme">Theme</string>
+    <string name="button_1">Button</string>
+    <string name="button_2">Button</string>
+    <string name="button_3">Button</string>
+    <string name="button_4">Button</string>
+    <string name="button_5">Button</string>
+    <string name="button_6">Button</string>
+    <string name="button_7">Button</string>
+    <string name="button_8">Button</string>
+    <string name="button_9">Button</string>
+    <string name="button_10">Button</string>
+    <string name="button_11">Button</string>
+    <string name="button_12">Button</string>
+    <string name="button_13">Button</string>
+    <string name="button_14">Button</string>
+    <string name="button_15">Button</string>
+    <string name="button_16">Button</string>
+    <string name="bonne_chance">Bonne chance !</string>
+    <string name="google_drive_logo">google drive logo</string>
+    <string name="certains_th_mes_vous_donnent_faim">Certains thèmes vous donnent faim ?</string>
+    <string name="supermarch_s_pr_s_de_votre_position">Supermarchés près de votre position</string>
+    <string name="title_activity_map">Map</string>
+</resources>
